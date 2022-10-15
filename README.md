@@ -2,12 +2,13 @@
 
 
 This application is made by AD Tech Team . Members of this team are Deepansh Jain and Anjali Malviya.
-Github link of the team are- https://github.com/Deepansh007jain
+Github link of the team members are- https://github.com/Deepansh007jain and 
                              https://github.com/anjalimalviya28
 
 
 
-DESCRIPTION- we created the news app by which we can scroll read and analyze the news for the proof check
+DESCRIPTION-
+we created the news app by which we can scroll read and analyze the news for the proof check
              The purpose of the app is to develop an application to display news articles ,in this app user can acces the latest news.
 
 
