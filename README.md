@@ -1,2 +1,8 @@
-# NEWS-APP-FINAL
-This is the project of hackathon of COMPETE N COMPOSE 
+# News App
+
+This application is made by AD Tech Team .
+In this 
+
+
+
+
